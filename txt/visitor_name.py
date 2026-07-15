@@ -1,0 +1,8 @@
+visitor_name = input("Enter your name : ")
+name = open("name.txt" , "a")
+name.write(visitor_name + "\n")
+name.close()
+reader = open("name.txt" , "r")
+all_content = reader.read()
+print(all_content)
+reader.close()

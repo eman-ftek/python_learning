@@ -1,0 +1,5 @@
+name = input("Enter your name :")
+my_file = open("name.txt" , 'a')
+my_file.write(name +"\n")
+my_file.close()
+print("Your name has been saved permanently in name.txt")

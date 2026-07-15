@@ -1,0 +1,5 @@
+user_note = input("Enter your note : ")
+my_note = open("diary.txt" , "a")
+my_note.write(user_note + "\n")
+my_note.close()
+print("Your note has been saved ")
