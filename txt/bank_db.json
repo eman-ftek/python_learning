@@ -1,0 +1,26 @@
+[
+    {
+        "account_no": "1001",
+        "customer_name": "Eman",
+        "balanc": 500000.0,
+        "pin": "8a5e97287a6767f81ec9e1ef8e9ac34e732df4e42a7e8494b1502c47e8b60154"
+    },
+    {
+        "account_no": "1002",
+        "customer_name": "Ali",
+        "balanc": 154800.0,
+        "pin": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c"
+    },
+    {
+        "account_no": "1003",
+        "customer_name": "Sara",
+        "balanc": 21000.0,
+        "pin": "9af15b336e6a9619928537df30b2e6a2376569fcf9d7e773eccede65606529a0"
+    },
+    {
+        "account_no": "1004",
+        "customer_name": "Mohamad",
+        "balanc": 6200.0,
+        "pin": "318aee3fed8c9d040d35a7fc1fa776fb31303833aa2de885354ddf3d44d8fb69"
+    }
+]
